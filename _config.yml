@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Github pages by Yanjun Wang.  This includes blogs about Python, Shell 
   (Bash and KSH), Unix, and writings about China.
 baseurl: /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "yanjungh.github.io"
 twitter_username: 
 github_username: yanjungh
 
