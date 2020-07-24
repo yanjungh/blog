@@ -73,7 +73,7 @@ date:   2020-07-24 12:35:00 -0400
 
 我母亲心中忐忑， 但是外公连半句责备的话都没有说。
 
-![从义乌到弋阳的南下之旅](assets/images/KenZhiChang.jpg)
+![从义乌到弋阳的南下之旅](assets/images/RouteToJiangxi.jpg)
 
 # § 逃荒江西（二）：到达垦殖场
 
@@ -161,7 +161,7 @@ date:   2020-07-24 12:35:00 -0400
 
 没有想到外婆已经没有以后，她在１９８７年离开了人世。
 
-![汪二垦殖场](assets/images/RouteToJiangXi.png)
+![汪二垦殖场](../../../assets/images/KenZhiChang.png)
 
 # § 逃荒江西（六）:钻骨藤
 
