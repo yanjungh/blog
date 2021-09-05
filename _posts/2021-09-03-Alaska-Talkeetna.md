@@ -265,10 +265,10 @@ From Ride Guide to the Historic Alaska Railroad, Wilderness Express:
 
 # CHUGACH　
 
-Chugach 这个名字在阿拉斯加见到很多。安克雷奇附近有个 Chugach State Park，东南部又有一个 Chugachi National 
+Chugach 这个名字在阿拉斯加见到很多。安克雷奇附近有个 Chugach State Park，东南部又有一个 Chugach National 
 Forest。这也是一个原住民民族的名字。
 
-自从上一个冰川纪以来，Chugach都是原住民的领地，然而与外界的文明接触终不可避免。Vitus Jonassen Bering (维图斯·白令) 
+自从上一个冰川纪以来，Chugach 都是原住民的领地，然而与外界的文明接触终不可避免。Vitus Jonassen Bering (维图斯·白令) 
 是一位出生于丹麦，但是就职于俄罗斯海军的探险家。白令于１７４１年到北美洲探险，到达Chugach地域。
 
 除了白令这样的外籍探险家，当时俄罗斯还有著名外籍科学家。瑞士籍的物理学家丹尼尔·伯努利（就是发现了流体力学里的伯努力定律
