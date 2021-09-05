@@ -4,7 +4,7 @@ title:  阿拉斯加之旅：西沃德及出口冰川 (Seward and Exit Glacier T
 date:   2021-09-05 17:35:00 -0400
 ---
 
-# 基奈峡湾国家公园之出口冰川 (Exit Glacier in the Kenai Fjords National Park)
+# 从安克雷奇到出口冰川
 
 从陶基纳回到安克雷奇后，先生和儿子也从纽约赶到。一家团圆，开始我们的家庭假日。阿妹见了哥哥和爸爸非常开心。
 
@@ -16,46 +16,12 @@ date:   2021-09-05 17:35:00 -0400
 的秀丽山峰。其它地方的白云，都是在九天之上飘忽，教人觉得遥不可及。阿拉斯加的白云，离我们这么近，让人受宠若惊，惊喜不已。她平添了几分神秘
 之美，又仿佛来邀请我们去白云深处探访。
 
-去出口冰川观景台只需徒步２英里。第一次在雪山近处徒步，走几步就让人惊叹，“风景太美了！”路边的野花野草都很美，从未见过，我拿着手机一路拍照，
-儿子时不时地停下来等我。
-
-自从１８１５年开始，冰川一直在往后退。每一年，如果融化掉的冰比下的雪多，冰川会后退。反之冰川会前移。当我们每走过一个年代标识，忍不住感慨
-全球变暖速度太快了！
-
-在冰川观景台，蓝天白云下，巨大的淡蓝色冰川就挂在眼前。流水声隆隆，是冰川融化的水汇成了河流。风吹在脸上感到丝丝寒意，是风从冰川上带下来的
-气息。大自然的美让人惊叹，让人陶醉。
-
-基奈峡湾国家公园在步道入口处有个办公室。看到一本阿拉斯加野花的书，一下子就喜欢上了。买了一本开始研究刚看到的野花。
-
-随后去附近的西沃德小镇吃午饭。导游说有两家海鲜餐馆挺出名，其中一家是油炸海鲜。我们就去另外一家试试运气。餐馆里面挺大，大多数餐桌是空着的，
-大概是因为新冠疫情游客比往年少多了。拿到菜单一看，得，还是油炸海鲜。大家都有点饿了，也不再挑剔，就饱餐了一顿美食。
-
-漫步在西沃德小镇，海风拂面，雪山环绕。阿妹说，“我感觉我们不像在美国，倒像是在欧洲－瑞士那样一个国家的小镇上。”倒也是的，谁会把美国跟雪山
-联系起来呢？
-
-镇上有一个Alaska Sealife Center，里面看到了很多漂亮的水鸟。所有的水缸，无论大小，都非常清澈，一点绿藻都没有。游玩的经历远远超出我的
-期望值。
-
-冬天里阿妹最喜欢盖羽绒被，“Eiderdown”，这一次我们见到了水鸭“Eider”。不过好看的动物实在太多，我没有怎么拍照，这里是水族馆的网上
-图片：
-
-<center>
-<figure>
-  <img src="https://www.alaskasealife.org//uploads/animals/images/spei.jpg" alt="美丽可爱的“Eider”"/>
-  <center><figcaption>美丽可爱的水鸭“Eider”</figcaption></center>
-</figure>
-</center>
-
-除了Eider，其它的水鸟如Puffins，Merganser等也很漂亮。
-
-# 美丽风景
-
-阿拉斯加美景无限。你不需要是大摄影师，无论何地，拿手机随意一拍就是美照一张。
-
 <figure>
   <img src="../../../assets/images/Seward/ExitGlacier.png" alt="From Anchorage to Exit Glacier"/>
   <center><figcaption>From Anchorage to Exit Glacier</figcaption></center>
 </figure>
+
+阿拉斯加美景无限。你不需要是大摄影师，无论何地，拿手机随意一拍就是美照一张。
 
 <figure>
   <img src="../../../assets/images/Seward/AnchorageToSeward-01.jpg" alt="一个停车场边的秀丽青山，海鸥在路灯顶上休憩。"/>
@@ -77,6 +43,17 @@ date:   2021-09-05 17:35:00 -0400
   <center><figcaption>Summit Lake, Chugach National Forest, 清水绿波，青山白云</figcaption></center>
 </figure>
 
+# 基奈峡湾国家公园之出口冰川 (Exit Glacier in the Kenai Fjords National Park)
+
+去出口冰川观景台只需徒步２英里。第一次在雪山近处徒步，走几步就让人惊叹，“风景太美了！”路边的野花野草都很美，从未见过，我拿着手机一路拍照，
+儿子时不时地停下来等我。
+
+自从１８１５年开始，冰川一直在往后退。每一年，如果融化掉的冰比下的雪多，冰川会后退。反之冰川会前移。当我们每走过一个年代标识，忍不住感慨
+全球变暖速度太快了！
+
+在冰川观景台，蓝天白云下，巨大的淡蓝色冰川就挂在眼前。流水声隆隆，是冰川融化的水汇成了河流。风吹在脸上感到丝丝寒意，是风从冰川上带下来的
+气息。大自然的美让人惊叹，让人陶醉。
+
 <figure>
   <img src="../../../assets/images/Seward/ExitGlacier-01.jpg" alt="Exit Glacier 出口冰川一景"/>
   <center><figcaption>Exit Glacier 出口冰川一景</figcaption></center>
@@ -86,6 +63,22 @@ date:   2021-09-05 17:35:00 -0400
   <img src="../../../assets/images/Seward/ExitGlacier-02.jpg" alt="出口冰川！"/>
   <center><figcaption>出口冰川！</figcaption></center>
 </figure>
+
+<figure>
+  <img src="../../../assets/images/Seward/ExitGlacier-03.jpg" alt="因为全球变暖，冰川在后退"/>
+  <center><figcaption>因为全球变暖，冰川在后退</figcaption></center>
+</figure>
+
+
+基奈峡湾国家公园在步道入口处有个办公室。看到一本阿拉斯加野花的书，一下子就喜欢上了。买了一本开始研究刚看到的野花。
+
+# 小镇风光
+
+随后去附近的西沃德小镇吃午饭。导游说有两家海鲜餐馆挺出名，其中一家是油炸海鲜。我们就去另外一家试试运气。餐馆里面挺大，大多数餐桌是空着的，
+大概是因为新冠疫情游客比往年少多了。拿到菜单一看，得，还是油炸海鲜。大家都有点饿了，也不再挑剔，就饱餐了一顿美食。
+
+漫步在西沃德小镇，海风拂面，雪山环绕。阿妹说，“我感觉我们不像在美国，倒像是在欧洲－瑞士那样一个国家的小镇上。”倒也是的，谁会把美国跟雪山
+联系起来呢？
 
 <figure>
   <img src="../../../assets/images/Seward/Seward-01.jpg" alt="The City of Seward 小城风光之一"/>
@@ -101,6 +94,21 @@ date:   2021-09-05 17:35:00 -0400
   <img src="../../../assets/images/Seward/Seward-03.jpg" alt="坐在水族馆附近的堤岸上，远眺高山大海"/>
   <center><figcaption>坐在水族馆附近的堤岸上，远眺高山大海</figcaption></center>
 </figure>
+
+镇上有一个Alaska Sealife Center，里面看到了很多漂亮的水鸟。所有的水缸，无论大小，都非常清澈，一点绿藻都没有。游玩的经历远远超出我的
+期望值。
+
+冬天里阿妹最喜欢盖羽绒被，“Eiderdown”，这一次我们见到了水鸭“Eider”。不过好看的动物实在太多，我没有怎么拍照，这里是水族馆的网上
+图片：
+
+<center>
+<figure>
+  <img src="https://www.alaskasealife.org//uploads/animals/images/spei.jpg" alt="美丽可爱的“Eider”"/>
+  <center><figcaption>美丽可爱的水鸭“Eider”</figcaption></center>
+</figure>
+</center>
+
+除了Eider，其它的水鸟如Puffins，Merganser等也很漂亮。
 
 # 西沃德简史
 
