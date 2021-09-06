@@ -44,7 +44,7 @@ date:   2021-09-06 09:35:00 -0400
 | Death Valley | California | 3372401.96 | 5,269 |
 | Glacier Bay | Alaska | 3224840.31 | 5,039 |
 | Lake Clark | Alaska | 2619733.21 | 4,093 |
-| Yellowstone | Wyoming/Idaho/Montana | 2219790.71 | 3,468 |
+| Yellowstone | Wyoming, Idaho, Montana | 2219790.71 | 3,468 |
 | Kobuk Valley | Alaska | 1750716.5 | 2,735 |
 | Everglades | Florida | 1508537.9 | 2,357 |
 
