@@ -27,6 +27,7 @@ baseurl: /blog
 url: "yanjungh.github.io"
 twitter_username: 
 github_username: yanjungh
+auto: false
 
 # Build settings
 theme: minima

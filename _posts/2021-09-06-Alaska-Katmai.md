@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  阿拉斯加之旅：卡特迈国家公园访熊之国 (Katmai National Park and Preserve, A.K.A. The Country of Bears)
-date:   2021-09-06 10:35:00 -0400
+date:   2021-09-06 09:35:00 -0400
 ---
 
 # 飞往三文鱼之王（Flight to King Salmon）
@@ -155,7 +155,7 @@ Shaun果然没多久就到了。他的两栖飞机降落的时候，一个前轮
 
 # 三文鱼
 
-说到熊，不能不提到他们的美食：三文鱼。
+说到熊，不能不提到他们的猎物：三文鱼。
 
 碧蓝的天空下，碧蓝的湖水，水里芳草芊芊，远处翠绿的云杉林和更远处的雪山，天设了一个美丽的背景。一场生命的史诗将要上演，让人
 感动又哀伤。
@@ -190,7 +190,7 @@ Shaun果然没多久就到了。他的两栖飞机降落的时候，一个前轮
   <center><figcaption>Another School of Salmons. One salmon just jumped!</figcaption></center>
 </figure>
 
-# 观熊去
+# 观熊去～～
 
 除了儿童书上的棕熊，我对所以的熊都没有喜爱的感觉。但是，在一个纯天然的环境里，看到这些大家伙们，还是很让人惊奇的。
 
