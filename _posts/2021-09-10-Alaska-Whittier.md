@@ -19,7 +19,7 @@ date:   2021-09-10 09:35:00 -0400
 湖水有些微微的浑浊，是因为冰川融化的水里带了极细腻的岩石细粉（rock flour, or glacier flour）。
 
 小镇依山傍水，背靠“Chugachi National Forest”，面对威廉王子湾（Prince William Sound）。威廉王子湾冰川处处，在这里我对
-“fiord, fjord, fyord”（峡湾）有了深切的理解。来阿拉斯加之前，这个词我只在欧洲的地图上见过。
+“fiord, fjord, fyord”（峡湾）有了深切的理解。来阿拉斯加之前，这个词以前我只在欧洲的地图上见过。
 
 From [OxfordLanguages](https://languages.oup.com/google-dictionary-en/):
 
@@ -117,20 +117,14 @@ Dartmouth, ...Yale, Harvard.　哈佛冰川是大哥大，宽 2 公里，高 91 
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Whittier/HarvardGlacier-03.jpg" alt="远眺宽2公里，高91米的哈佛冰川"/>
-  <center><figcaption>远眺宽2公里，高91米的哈佛冰川</figcaption></center>
+  <img src="../../../assets/images/Whittier/HarvardGlacier-03.jpg" alt="远眺哈佛冰川"/>
+  <center><figcaption>远眺哈佛冰川（宽2公里，高91米）</figcaption></center>
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Whittier/CollegeFjord-06.jpg" alt="另一个冰川"/>
-  <center><figcaption>另一个冰川</figcaption></center>
-</figure>
-
-<figure>
-  <img src="../../../assets/images/Whittier/Wildlife-Sea-Lions.jpg" alt="洁白晶莹的冰雪世界"/>
+  <img src="../../../assets/images/Whittier/CollegeFjord-06.jpg" alt="洁白晶莹的冰雪世界"/>
   <center><figcaption>洁白晶莹的冰雪世界</figcaption></center>
 </figure>
-
 
 
 # 海洋野生动物
