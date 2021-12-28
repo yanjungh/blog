@@ -145,7 +145,7 @@ Dan 提到阿拉斯加现在还有“Flag Stop Train”，我在火车上买的 
 
 <figure>
   <img src="../../../assets/images/WildernessExpress/DenaliBluffs.jpg" alt="国家公园内的酒店。这里也会有熊出没，所以垃圾桶也是防熊的。我第一次也是问了路人才打开的。"/>
-  <center><figcaption>国家公园内的酒店。这里会有熊出没；垃圾桶也是防熊的。游人也不一定能打开呢！</figcaption></center>
+  <center><figcaption>国家公园内的酒店。这里会有熊出没；垃圾桶也是防熊的。若无人指点，游人也不一定能打开呢！</figcaption></center>
 </figure>
 
 <figure>
