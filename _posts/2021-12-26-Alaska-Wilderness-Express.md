@@ -110,7 +110,7 @@ Dan 提到阿拉斯加现在还有“Flag Stop Train”，我在火车上买的 
 
 <figure>
   <img src="../../../assets/images/WildernessExpress/clear-river-02.jpg" alt="高山流水。这里看起来已经靠近树线，云杉长得不高又有点稀疏。"/>
-  <center><figcaption>高山流水。这里看起来已经靠近树线（树停止生长地地方），云杉长得不高又有点稀疏。</figcaption></center>
+  <center><figcaption>高山流水。这里看起来已经靠近树线（树停止生长的地方），云杉长得不高又有点稀疏。</figcaption></center>
 </figure>
 
 <figure>
