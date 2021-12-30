@@ -111,8 +111,8 @@ date:   2021-12-28 11:35:00 -0400
 “THE MAGIC BUS, STAMPEDE TRAIL, HEALY, AK”。虽然巴士被搬走了，这个地点你今天依然能找到。
 
 <figure>
-  <img src="../../../assets/images/Healy/StampedeTrail.png" alt="神奇巴士原来的位置，绿色的迪纳利国家公园与保护地。地图右上方的红线就是３８英里(６１公里)长的“踩踏小径”。"/>
-  <center><figcaption>神奇巴士原来的位置，绿色的迪纳利国家公园与保护地。地图右上方的红线就是３８英里(６１公里)长的“踩踏小径”。</figcaption></center>
+  <img src="../../../assets/images/Healy/StampedeTrail.png" alt="神奇巴士原来的位置，绿色的是迪纳利国家公园与保护地。地图右上方的红线就是３８英里(６１公里)长的“踩踏小径”。"/>
+  <center><figcaption>神奇巴士原来的位置，绿色的是迪纳利国家公园与保护地。地图右上方的红线就是３８英里(６１公里)长的“踩踏小径”。</figcaption></center>
 </figure>
 
 <figure>
