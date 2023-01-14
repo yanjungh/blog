@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  黄石之旅：出发
+title:  黄石之旅：大天空与老忠实喷泉（Big Sky and the Old Faithful）
 date:   2023-01-07 11:35:00 -0400
 ---
 
@@ -48,12 +48,20 @@ date:   2023-01-07 11:35:00 -0400
 
 ## 大天空（Big Sky）
 
-旅途中，先生发现忘了给小朋友带取 CRT 的小吸盘。我们到了西黄石镇后，发现离我们最近的一家眼镜店有，但是在 50 英里之外。居家千日易，
-出门一时难！小镇有个很好听的名字，叫“大天空”（Big Sky）。去往小镇的路上，两侧是青翠山峰，道路一旁是清澈溪流，车辆很少，让人心旷神怡。
-小镇干净漂亮如世外桃源。
+旅途中，先生发现忘了给小朋友带取 CRT 的小吸盘。我们到了西黄石镇后，电话确认了离我们最近的一家眼镜店有，但是在西黄石以北 50 英里之外。居家
+千日易，出门一时难！入住的木屋在东南方向，但是为了买这个小小的必需品，要先往相反的方向走 50 英里。好在时间尚早，又是个美丽的大晴天。小镇有
+个很好听的名字，叫“大天空”（Big Sky）。“大天空”让我很期待，因为纽约的天空太小了！
+
+去往小镇的路上，两侧是青翠山峰，道路一旁是清澈溪流，车辆很少，让人心旷神怡。到了以后，直呼小镇名副其实，而且干净漂亮如世外桃源。
 
 远来一趟小镇不易，先生发现他自己也忘了带上高清眼镜，就在那家眼睛店了取了两盒隐形眼镜。还有一个意外收获是这个新品牌 Precision1 比他原来用的
  Oasys 隐形眼镜更舒服。我和两个孩子流连街头，沉浸在这桃花源温暖的午后阳光里，甚至忘了拍照。
+
+<figure>
+  <img src="../../../assets/images/OldFaithful/Big-Sky-map.png" alt="Directions to Big Sky"/>
+  <center><figcaption>去 Big Sky 的线路，右边“8”字型的环线是黄石国家公园</figcaption></center>
+</figure>
+
 
 <figure>
   <img src="../../../assets/images/OldFaithful/Highway191-Big-Sky.jpg" alt="去 Big Sky 的沿途美景之一"/>
@@ -95,10 +103,11 @@ date:   2023-01-07 11:35:00 -0400
 下面就是危险地带：地表的壳层看起来好像很坚固，但可能又脆又薄，不小心一脚踩下去，就掉到了滚烫的开水里。有的喷泉里的水是过热的，水温超过
 100摄氏度。
 
+女儿问了个好问题：“既然这里这么危险，那么这些木板步道是怎么修起来的呢？”这个问题，我写这篇游记时才突然想起来，找到了答案。
+
 之前在纽约上州的 Saratoga Springs 看到过温泉，但是黄石的景色太震撼了！步道连接着一个个喷泉，每个喷泉都有名字和介绍。有的温泉一直在喷发，
 就这样永不停歇地咕噜噜地煮着沸腾的热水。一阵微风吹拂，如果吹到了，立刻让人感受到喷泉的热气蒸腾。放眼望去，远近的水气袅袅升起，犹如古战场上
 狼烟四起。如仙境，又似乎有一种暗藏的危机。
-
 
 <figure>
   <img src="../../../assets/images/OldFaithful/Upper-Geyser-Basin-map.jpg" alt="Upper Geyser Basin Map"/>
@@ -131,6 +140,11 @@ date:   2023-01-07 11:35:00 -0400
 </figure>
 
 <figure>
+  <img src="../../../assets/images/OldFaithful/fumaroles-at-sunset.jpg" alt="狼烟四起"/>
+  <center><figcaption>狼烟四起</figcaption></center>
+</figure>
+
+<figure>
   <img src="../../../assets/images/OldFaithful/Old-Faithful-Lodge.jpg" alt="落日余辉下的 Old Faithful Lodge 及可以欣赏风景的高大窗户。"/>
   <center><figcaption>落日余辉下的 Old Faithful Lodge 及可以欣赏风景的高大窗户。</figcaption></center>
 </figure>
@@ -142,7 +156,7 @@ date:   2023-01-07 11:35:00 -0400
 分钟之内，置信度达到 90%。它是如此可靠，从而得名“老忠实泉”。
 
 第一次看到了老忠实泉的喷发。巨大的白色蒸汽冲天而起，蔚为奇观。水汽目测有几十米高。似水、似雾，又似刚生成的云朵，升空后飘然融入天际。黄石的
-冬季酷寒，美洲野牛（Bison）貌似常到老忠实泉或其他热喷泉周围取暖。不知道这些野牛们有没有感受到老忠实泉长久以来的友谊？
+冬季酷寒，美洲野牛（Bison）貌似常到老忠实泉或其他热喷泉周围取暖。不知道这些野牛们有没有感受到老忠实泉长久以来默默的友谊？
 
 <figure>
   <img src="../../../assets/images/OldFaithful/Old-Faithful-Geyser.jpg" alt="远处的老忠实泉正在喷发"/>
