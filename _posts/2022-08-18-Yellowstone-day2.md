@@ -6,8 +6,8 @@ date:   2023-01-08 11:35:00 -0400
 
 # 老忠实客栈（The Old Faithful Inn）
 
-第二天我们上午走 Upper Geyser Basin去看牵牛花池，下午走 Fairy Falls Trail 去大棱镜温泉。
-早上先去老忠实客栈吃早餐。公园的人手不够，选择也不多，大家简单吃了点。
+第二天我们上午走 Upper Geyser Basin去看牵牛花池，下午走 Fairy Falls Trail 去大棱镜温泉。早上先去老忠实客栈吃早餐。受初夏的洪水影响，
+游客锐减。公园的人手也不够，鼓励游客自带食物。餐厅的选择也不多，大家简单吃了点。
 
 老忠实客栈我们来时已经绕着它转了好几圈了。从外面看，它就像一座高大的城堡，屋顶上旗帜飘扬：一面美国国旗，怀俄明、爱达荷、蒙大拿三州州旗
 各一面，还有四面最初的红蓝旗。它是世界上最大的全木结构建筑之一，建成于 1904 年。
@@ -46,9 +46,11 @@ date:   2023-01-08 11:35:00 -0400
 
 # Upper Geyser Basin
 
-走在步道上，听到很响有有点嘈杂的声音。我们循着声音，女儿第一个发现原来是蚱蜢发出的声音。蚱蜢有很多，它们有的就停在步道上休息，也不怕被人踩到。
+走在步道上，听到很响又嘈杂的声音。我们循着声音，女儿第一个发现原来是一种昆虫发出的声音，不知道是蚱蜢还是蛐蛐？听起来就像是两枚硬币摩擦
+的嚓嚓声（clicking noise）。虫子有很多，它们会飞到半空，停在草地上或者步道上，也不怕被人踩到。这个嘈杂的虫鸣我们后来在其他地方也多次听到，
+声音好像是虫子快速张开翅膀是发出的，看起来更象是一种蝉叫“Putnam's cicada”。
 
-黄石公园另外一种常见的鸟就是大乌鸦（Raven），它们也不怕人，还有的时候跑到游人前来要吃的。
+黄石公园另外一种常见的鸟就是大乌鸦（Raven），它们也不怕人，有时候还跑到游人前来要吃的。
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day2/A-Sapphire-Pool.jpg" alt="一个淡蓝清澈，冒着气泡的温泉。"/>
@@ -97,10 +99,15 @@ date:   2023-01-08 11:35:00 -0400
 </figure>
 
 
-# The Fairy Falls Trail
+# Fairy Falls Trail
 
-这个步道通向一个瞭望台，可以俯瞰大棱镜池。开始的一段步道比较宽，游人众多。瞭望台也不大，仅容十来人。尽管风景绝佳，但太过拥挤，
-我们拍了几张照后就立刻下山了。最好一大早就先来这里，肯定不会这么挤。
+这个步道通向一个可以俯瞰大棱镜池的瞭望台。开始的一段步道又平又宽，游人众多。开始上坡后变窄，只能一人行走，变成长蛇阵。到了以后，看见瞭望台
+也不大，仅容十来人。尽管风景绝佳，但太过拥挤，游人纷纷拍照，我们也拍了几张照后就立刻下山了。最好的安排是一大早就先来这里，体验会更美好。
+
+<figure>
+  <img src="../../../assets/images/Yellowstone-Day2/Fairy-Falls-Trail.png" alt="Fairy Falls Trail"/>
+  <center><figcaption>Fairy Falls Trail to Grand Prism Overlook</figcaption></center>
+</figure>
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day2/A-Sapphire-Pool-2.jpg" alt="步道起始处的一个蓝色温泉"/>
@@ -128,7 +135,7 @@ date:   2023-01-08 11:35:00 -0400
 一天走了两个步道，小朋友们都走不动了。在步道边的长凳上，他们坐下来休息一下就也不想起来了，先生和我只好两人去近看大棱镜池。 
 Excelsior Geyser 如巨大的蓝宝石，美丽的深蓝色清澈透明，水雾飘渺，给人亘古永恒神秘之美。大棱镜温泉，更是黄石的明珠，美得让人叹为观止。
 
-回到小朋友身边，和他们说非凡美景，近在咫尺，怎可错过？他们也心动了，我又和他们一起走了一圈再次欣赏黄石的美景。
+回到小朋友身边，和他们说非凡美景，近在咫尺，怎可错过？他们也心动了，我又陪他们一起走了一圈，再次欣赏黄石的美景。
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day2/Midway-Geyser-Basin.jpg" alt="Midway Geyser Basin Map"/>
@@ -155,8 +162,9 @@ Excelsior Geyser 如巨大的蓝宝石，美丽的深蓝色清澈透明，水雾
 先生一来高估了孩子们的耐力，二来他像是旅行社的导游，把我们的行程排得满满当当的。不过到了这第四程，小朋友是真的精疲力尽了。入口处有几条长凳，
 将近傍晚，凉风习习，就让他们在那里等我们。
 
-这是个半英里的步道。喷泉颜料锅的形成是因为微酸的热水融化了周围的岩石，而已经融化的岩石又融化更多的周围岩石。里面有粉灰白三种色调。难得的是
-一颗小松树竟然生长在这么恶劣的土壤里。
+这是个半英里的步道。喷泉颜料锅的形成是因为微酸的热水融化了周围的岩石，而已经融化的岩石又融化更多的周围岩石。里面有粉灰白三种色调，让人惊奇的
+是一颗小松树竟然生长在这么恶劣的土壤里。有趣的是这个泥浆锅就像中国人煮粥，春天的时候冰雪融化，象稀粥。夏天的时候水分蒸发掉不少，变成了稠粥。
+到秋天大自然开始再添冰雪，就这样周而复始。
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day2/Celestine-Pool.jpg" alt="Celestine Pool (天青池)"/>
@@ -173,12 +181,12 @@ Excelsior Geyser 如巨大的蓝宝石，美丽的深蓝色清澈透明，水雾
   <center><figcaption>Clepsydra Geyser</figcaption></center>
 </figure>
 
-# Hayden Valley - Herds of Bison
+# Hayden Valley & Herds of Bison
 
-第二天定的酒店在黄石湖畔的 Lake Village (湖边小村)。因为我们还是只有纸质地图，先生走北线去湖边小村，因为北线路途比较简单。一路通畅，直到 
-Hayden Valley，前面的车都堵上了。
+第二天定的酒店在黄石湖畔的 Lake Village (湖边小村)。我们还是没有 GPS 导航，先生就走北线去湖边小村，因为北线路途比较简单。一路通畅，直到 
+Hayden Valley，远远地就看到前面堵了很长的车队。原来是野牛在过马路！
 
-本来小朋友都累了，可是第一次在野外看到了野牛，他们就立刻来精神了。他俩和我们一起，拿了望远镜仔细观看。
+本来小朋友都累了，可是第一次在野外看到了野牛，他们就立刻来精神了。他俩和我们一起，下了车拿了望远镜仔细观看。
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day2/Hayden-Valley-01.jpg" alt="Hayden Valley 远处的美洲野牛群"/>
@@ -218,8 +226,8 @@ Hayden Valley，前面的车都堵上了。
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Yellowstone-Day2/Deer.jpg" alt="无人的湖边，两头鹿在享受它们的晚餐"/>
-  <center><figcaption>无人的湖边，两头鹿在享受它们的晚餐</figcaption></center>
+  <img src="../../../assets/images/Yellowstone-Day2/Deer.jpg" alt="无人的湖边，两头骡鹿(mule deer)在享受它们的晚餐"/>
+  <center><figcaption>无人的湖边，两头骡鹿(mule deer)在享受它们的晚餐</figcaption></center>
 </figure>
 
 <figure>
