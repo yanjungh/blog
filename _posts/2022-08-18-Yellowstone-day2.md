@@ -106,7 +106,7 @@ date:   2023-01-08 11:35:00 -0400
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day2/Fairy-Falls-Trail.png" alt="Fairy Falls Trail"/>
-  <center><figcaption>Fairy Falls Trail to Grand Prism Overlook</figcaption></center>
+  <center><figcaption>Fairy Falls Trail to Grand Prismatic Spring Overlook</figcaption></center>
 </figure>
 
 <figure>
