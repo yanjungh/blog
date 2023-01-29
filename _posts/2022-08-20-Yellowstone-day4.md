@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  黄石之旅（之四）：黄石湖、西拇指、饼干盆和日落（Yellowstone Lake, West Thumb, Biscuit Basin and Sunset at Lake Butte Outlook）
+title:  黄石之旅（之四）：黄石湖、西拇指、饼干盆和日落（Yellowstone Lake, West Thumb Basin, Biscuit Basin and Sunset at Lake Butte Outlook）
 date:   2023-01-15 10:00:00 -0400
 ---
 
