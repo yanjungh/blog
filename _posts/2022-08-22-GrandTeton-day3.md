@@ -144,6 +144,8 @@ rk/grand-canyon-yellowstone-17831"/>
 
 # 再回黄石
 
+很吃惊 Colter Bay 那里竟然有个小超市，卖的东西貌似很齐全的。看来这里的游客不少。午饭后我们想直接回黄石，就没有再这里探索游玩。
+
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Back-to-Yellowstone.jpg" alt="回黄石公园的路，无垠的旷野、天空和满天的白云太令人难忘。"/>
   <center><figcaption>回黄石公园的路，无垠的旷野、天空和满天的白云太令人难忘。</figcaption></center>
