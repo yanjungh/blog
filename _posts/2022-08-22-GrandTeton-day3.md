@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  大提顿之旅：National Museum of Wildlife Art, Snake River and West Yellowstone
-date:   2023-01-16 10:00:00 -0400
+date:   2023-02-03 10:00:00 -0400
 ---
 
 # 一路往北
