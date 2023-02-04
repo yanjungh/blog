@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  黄石之旅（之五）：北环线与杰克逊湖（Dunraven Pass, Blacktail Plateau Drive, Jackson Lake and Lodge）
+title:  黄石之旅（之五）：黄石之狼，北环线与杰克逊湖（Wolves, Dunraven Pass, Blacktail Plateau Drive, Jackson Lake and Lodge）
 date:   2023-01-16 10:00:00 -0400
 ---
 
 # Wolves
 
-今天路过 Hayden Valley，看到一个小山坡上有好大一群游客，我们就猜想他们肯定看到了什么野生动物。先生和我先下车去看，我就问一对小情侣他们
-看见了什么？他们很热情地告诉我，在远处的山脊上看到了几匹狼！并且邀请我和先生看他们的望远镜。哇！这么远，至少有几公里吧，第一个看见狼群的人
-真是太神了！如果让我来寻找野生动物，大概率它们会先看到我。
+今天路过 Hayden Valley，看到远处一个小山坡上有好大一群游客，我们就猜想他们肯定看到了什么野生动物。先生和我先下车去看。到了山坡上，碰巧
+站到了一对小情侣身旁，女孩还光着脚丫。他们两个人都很阳光，也很亲密，看起来是真正的自然爱好者。我就问他们看见了什么？他们很热情地告诉我，
+在远处的山脊上看到了几匹狼！并且邀请我和先生看他们的望远镜。哇！这么远，至少有几公里吧，第一个看见狼群的人真是太神了！
 
-我跑回车上告诉小朋友，儿子一听很惊喜，立刻就下了车，女儿就跟着他一路小跑到了山坡上。在很远处的两座不同的山峰上，都有几匹狼。后来我们在自己
-的望远镜上也看到了狼。儿子眼尖，在另一座山峰上听了其他游人的指点也看见了一匹狼。
+我跑回车上告诉小朋友，儿子一听很惊喜，立刻就下了车，女儿就跟着他一路小跑到了山坡上。在很远处的马路两边两座不同的山峰上，人们都发现了狼！儿子
+眼尖，再加上其他游人的指点，在其中一座山峰上也看见了一匹狼。后来我们在自己的望远镜上也看到了。
 
 回到车上的时候，儿子很开心地说：“我认为今年来黄石是最好的决定！”
 
@@ -154,7 +154,7 @@ date:   2023-01-16 10:00:00 -0400
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day5/Snake-River-Mount-Moran-backdrop.jpg" alt="Scenic Snake River and mountains"/>
-  <center><figcaption>Scenic Snake River and mountains</figcaption></center>
+  <center><figcaption>Scenic Snake River with Mount Moran in the backdrop</figcaption></center>
 </figure>
 
 <figure>
