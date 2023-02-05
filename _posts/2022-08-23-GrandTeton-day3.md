@@ -1,18 +1,8 @@
 ---
 layout: post
-title:  大提顿之旅：National Museum of Wildlife Art, Snake River and West Yellowstone
+title:  大提顿之旅（之三）：National Museum of Wildlife Art, Snake River and West Yellowstone
 date:   2023-02-03 10:00:00 -0400
 ---
-
-# 一路往北
-
-大提顿公园有两条线路，来的时候我们走了西线，今天我们要走东线回西黄石，在 Colter Bay Village 吃午饭。
-
-<figure>
-  <img src="../../../assets/images/GrandTeton-Day3/Jackson-to-Colter-Bay-Map.png" alt="From Jackson to Colter Bay"/>
-  <center><figcaption>From Jackson to Colter Bay</figcaption></center>
-</figure>
-
 
 # Jackson Hole, Wyoming
 
@@ -22,7 +12,8 @@ date:   2023-02-03 10:00:00 -0400
 马车在马路上溜达，也有牛仔酒吧，很有西部的色彩。
 
 一家商店门前有一个很幽默的招牌，“For the person who has everything, we have everything else!” 中文倒是不太好翻译，“致拥有一切的
-人：我们卖其他一切物品！”
+人：我们卖其他一切物品！” 进了门，看到店里卖的一些纪念品是铁杆共和党粉丝设计的，提醒我已经身在红州。其实我在几个红州的旅游体验都很好，
+对于红州居民的印象也如此。政治理念造成的撕裂，很大程度上政客应该为此负责。
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Jackson-Hole-01.jpg" alt="街头随拍（1）"/>
@@ -37,6 +28,16 @@ date:   2023-02-03 10:00:00 -0400
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Jackson-Hole-03.jpg" alt="街头随拍（3）"/>
   <center><figcaption>街头随拍（3）</figcaption></center>
+</figure>
+
+
+# 一路往北
+
+大提顿公园有两条线路，来的时候我们走了西线，今天我们要走东线回西黄石，在 Colter Bay Village 吃午饭。
+
+<figure>
+  <img src="../../../assets/images/GrandTeton-Day3/Jackson-to-Colter-Bay-Map.png" alt="From Jackson to Colter Bay"/>
+  <center><figcaption>From Jackson to Colter Bay</figcaption></center>
 </figure>
 
 
@@ -79,13 +80,13 @@ rk/grand-canyon-yellowstone-17831"/>
   <center><figcaption>Lake O'Hara by Carl Rungius 加拿大的卑诗省的一个海拔 2,000 米的高山湖</figcaption></center>
 </figure>
 
-# 莫尔顿谷仓（Moulton Barn）
+# 莫尔顿谷仓和一个钉子户的故事（Moulton Barn）
+
+虽然它的名字叫“谷仓”，这其实是一个马厩和猪圈。别小看这个谷仓，它可是全美被拍照拍得最多的谷仓。很多人从世界各地来这里，就是为了拍摄这个谷仓。
+屋主阿尔玛 (Thomas Alma Moulton) 在 1913 年建成了主要部分，这样可以给他的马度过严冬。后来有扩建了几次，1939 年才建成现在的样子。
 
 1862 年，美国通过了宅地法案。迁徙到西部几个州的居民，在政府的土地上，只要建一个房子，连续居住耕种满 5 年，就可以得到 160 英亩的土地。一些
 摩门教徒从盐湖城迁徙到怀俄明州，在这里安顿下来，建成了一个小镇。20 世纪中叶，大提顿国家公园因为要扩展而购置了这个小镇。
-
-别小看这个谷仓，它可是全美被拍照拍得最多的谷仓。很多人从世界各地来这里，就是为了拍摄这个谷仓。屋主阿尔玛 (Thomas Alma Moulton) 在 1913 年
-建成了主要部分，这样可以给他的马度过严冬。后来有扩建了几次，1939 年就建成现在的样子。
 
 上个世纪 20年代中期，这个山谷里开始有传言说政府希望保护这片土地，防止过度开发。1927 年，有一家“Snake River Land Company”开始购买这个
 山谷的土地。1930 年，有消息称一位洛克菲勒在后台秘密支持这家公司。虽然每家都有 160 英亩的土地，在农场上的生活还是很艰苦的，而且税赋和房贷
@@ -95,7 +96,7 @@ rk/grand-canyon-yellowstone-17831"/>
 到了1950 年后期大提顿公园扩建的时候，这个小镇只有莫尔顿一家还留在那里。阿尔玛的兄弟约翰在 1953 年以终身租约出售。没有人预料到他会活到
 103 岁，因此国家公园管理局直到 1990 年才得到他的地产。那一年阿尔玛不愿出售，觉得还应该再等上十年，并传给下一代。这在山谷中很少见，因为
 大多数人由于下一代都离开了牧场的艰苦生活而出售土地。十年之后的 1963 年，阿尔玛将一英亩土地留给儿子用于建造房屋和谷仓，另外 159 英亩土地
-以终身租约的形式卖给了大提顿国家公园。尽管他的儿子克拉克已于 1987 年退休，他也同样选择为子孙后代保留这块一英亩的土地。
+以终身租约的形式卖给了大提顿国家公园。尽管他的儿子克拉克已于 1987 年退休，克拉克也同样选择为子孙后代保留这块一英亩的土地。
 
 如果没有小洛克菲勒当年的善举，就不会有今天的大提顿公园。公园外有一条名为“约翰·洛克菲勒纪念大道”的公路，就是为了纪念他对于保护自然资源的贡献。
 
@@ -110,8 +111,8 @@ rk/grand-canyon-yellowstone-17831"/>
 一路上走到哪里，在公路上，原野间，或是 Snake 河边，大提顿的大山总在眼前，感觉很熟悉了！
 
 <figure>
-  <img src="../../../assets/images/GrandTeton-Day3/Grand-Teton-01.jpg" alt="View of the Grant Teton Range at Mormon Row"/>
-  <center><figcaption>View of the Grant Teton Range at Mormon Row</figcaption></center>
+  <img src="../../../assets/images/GrandTeton-Day3/Grand-Teton-01.jpg" alt="Grand Teton Range"/>
+  <center><figcaption>Grand Teton Range</figcaption></center>
 </figure>
 
 <figure>
@@ -144,7 +145,7 @@ rk/grand-canyon-yellowstone-17831"/>
 
 # 再回黄石
 
-很吃惊 Colter Bay 那里竟然有个小超市，卖的东西貌似很齐全的。看来这里的游客不少。午饭后我们想直接回黄石，就没有再这里探索游玩。
+很吃惊 Colter Bay 那里竟然有个小超市，卖的食物貌似很齐全的，竟然有西瓜！看来这里的游客不少。午饭后我们想直接回黄石，就没有再这里探索游玩。
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Back-to-Yellowstone.jpg" alt="回黄石公园的路，无垠的旷野、天空和满天的白云太令人难忘。"/>
@@ -168,5 +169,5 @@ rk/grand-canyon-yellowstone-17831"/>
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/West-Yellowstone.jpg" alt="傍晚的西黄石镇"/>
-  <center><figcaption>傍晚的西黄石镇</figcaption></center>
+  <center><figcaption>傍晚的西黄石镇，大概因为六月的水灾，汽车旅馆竟然还有空房。</figcaption></center>
 </figure>
