@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  黄石之旅：大天空与老忠实喷泉（Big Sky and the Old Faithful）
+title:  黄石之旅（之一）：大天空与老忠实喷泉（Big Sky and the Old Faithful）
 date:   2023-01-07 11:35:00 -0400
 ---
 

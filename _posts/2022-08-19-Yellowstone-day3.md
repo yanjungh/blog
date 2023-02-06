@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  黄石之旅：黄石瀑布、峡谷、猛犸温泉与Huckleberry
+title:  黄石之旅（之三）：黄石瀑布、峡谷、猛犸温泉与Huckleberry
 date:   2023-01-15 10:00:00 -0400
 ---
 
