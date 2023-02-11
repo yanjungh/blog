@@ -72,7 +72,7 @@ date:   2023-02-03 10:00:00 -0400
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Yellowstone-Fall-by-Moran.png" alt="The Grand Canyon of the Yellowstone by Thomas Moran, https://americanart.si.edu/artwo
 rk/grand-canyon-yellowstone-17831"/>
-  <center><figcaption>莫然的画作《黄石下瀑布》。The Grand Canyon of the Yellowstone by Thomas Moran, <br>https://americanart.si.edu/artwork/grand-canyon-yellowstone-17831</figcaption></center>
+  <center><figcaption>莫然的画作《黄石大峡谷》。The Grand Canyon of the Yellowstone by Thomas Moran, <br>https://americanart.si.edu/artwork/grand-canyon-yellowstone-17831</figcaption></center>
 </figure>
 
 <figure>
