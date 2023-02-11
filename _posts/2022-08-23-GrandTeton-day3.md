@@ -8,12 +8,12 @@ date:   2023-02-03 10:00:00 -0400
 
 这是一个美丽安静的小镇，好像也是游客常来的地方。去黄石公园另一条路线就是先飞到这个小镇的机场，然后再去大提顿和黄石国家公园。
 
-商店门口都挂了鲜花，很有情调。镇中心的广场里，有四个麋鹿角搭成的大拱门，很艺术又很自然。雄麋鹿每年春天都会卸下头上的角，再长新角。有牛仔拉的
-马车在马路上溜达，也有牛仔酒吧，很有西部的色彩。
+商店门口都挂了鲜花，很有情调。镇中心的广场里，有四个麋鹿角搭成的大拱门，很艺术又很自然。有牛仔拉的马车在马路上溜达，也有牛仔酒吧，很有西部
+的色彩。
 
 一家商店门前有一个很幽默的招牌，“For the person who has everything, we have everything else!” 中文倒是不太好翻译，“致拥有一切的
 人：我们卖其他一切物品！” 进了门，看到店里卖的一些纪念品是铁杆共和党粉丝设计的，提醒我已经身在红州。其实我在几个红州的旅游体验都很好，
-对于红州居民的印象也如此。政治理念造成的撕裂，很大程度上政客应该为此负责。
+对于红州居民的印象也如此。当然也许是因为这些地方的居民见多了游客，不是那么保守。
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Jackson-Hole-01.jpg" alt="街头随拍（1）"/>
@@ -66,13 +66,13 @@ date:   2023-02-03 10:00:00 -0400
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/The-Three-Tetons.jpg" alt="The Three Tetons by Thomas Moran"/>
-  <center><figcaption>The Three Tetons by Thomas Moran</figcaption></center>
+  <center><figcaption>莫然的画作《三个题顿》。The Three Tetons by Thomas Moran</figcaption></center>
 </figure>
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Yellowstone-Fall-by-Moran.png" alt="The Grand Canyon of the Yellowstone by Thomas Moran, https://americanart.si.edu/artwo
 rk/grand-canyon-yellowstone-17831"/>
-  <center><figcaption>The Grand Canyon of the Yellowstone by Thomas Moran, https://americanart.si.edu/artwork/grand-canyon-yellowstone-17831</figcaption></center>
+  <center><figcaption>莫然的画作《黄石下瀑布》。The Grand Canyon of the Yellowstone by Thomas Moran, <br>https://americanart.si.edu/artwork/grand-canyon-yellowstone-17831</figcaption></center>
 </figure>
 
 <figure>
@@ -82,21 +82,23 @@ rk/grand-canyon-yellowstone-17831"/>
 
 # 莫尔顿谷仓和一个钉子户的故事（Moulton Barn）
 
-虽然它的名字叫“谷仓”，这其实是一个马厩和猪圈。别小看这个谷仓，它可是全美被拍照拍得最多的谷仓。很多人从世界各地来这里，就是为了拍摄这个谷仓。
+虽然它的名字叫“谷仓”，这其实是一个马厩加猪圈。别小看这个谷仓，很多人从世界各地来这里，就是为了拍摄这个谷仓。它是全美被拍照拍得最多的谷仓。
 屋主阿尔玛 (Thomas Alma Moulton) 在 1913 年建成了主要部分，这样可以给他的马度过严冬。后来有扩建了几次，1939 年才建成现在的样子。
+几次扩建无意中赋予了谷仓一个独特的特征，而后成为闻名全美的标志。艰辛的生活中，一个人如果没有对于生活的热爱，如果没有些许诗意的浪漫，会把一个
+马厩修得这么漂亮吗？
 
 1862 年，美国通过了宅地法案。迁徙到西部几个州的居民，在政府的土地上，只要建一个房子，连续居住耕种满 5 年，就可以得到 160 英亩的土地。一些
-摩门教徒从盐湖城迁徙到怀俄明州，在这里安顿下来，建成了一个小镇。20 世纪中叶，大提顿国家公园因为要扩展而购置了这个小镇。
+摩门教徒从盐湖城迁徙到怀俄明州，在这里安顿下来，建成了一个小镇。
 
 上个世纪 20年代中期，这个山谷里开始有传言说政府希望保护这片土地，防止过度开发。1927 年，有一家“Snake River Land Company”开始购买这个
 山谷的土地。1930 年，有消息称一位洛克菲勒在后台秘密支持这家公司。虽然每家都有 160 英亩的土地，在农场上的生活还是很艰苦的，而且税赋和房贷
 的负担也变得更沉重。当 Snake River Land Company 开始对这些地块进行报价时，州长 Frank C. Emerson 进行了调解。州长担心这片主要的农业
 用地的税收流失，而这个小镇的居民却担心错过出售土地的机会。
 
-到了1950 年后期大提顿公园扩建的时候，这个小镇只有莫尔顿一家还留在那里。阿尔玛的兄弟约翰在 1953 年以终身租约出售。没有人预料到他会活到
-103 岁，因此国家公园管理局直到 1990 年才得到他的地产。那一年阿尔玛不愿出售，觉得还应该再等上十年，并传给下一代。这在山谷中很少见，因为
-大多数人由于下一代都离开了牧场的艰苦生活而出售土地。十年之后的 1963 年，阿尔玛将一英亩土地留给儿子用于建造房屋和谷仓，另外 159 英亩土地
-以终身租约的形式卖给了大提顿国家公园。尽管他的儿子克拉克已于 1987 年退休，克拉克也同样选择为子孙后代保留这块一英亩的土地。
+到了 1950 年后期大提顿公园扩建的时候，这个小镇只有莫尔顿一家还留在那里。大多数人都不愿再过农场的艰苦生活而出售了土地。阿尔玛的兄弟约翰在
+1953 年以终身租约出售。没有人预料到他会活到103 岁，因此国家公园管理局直到 1990 年才得到他的地产。那一年阿尔玛不愿出售，
+觉得还应该再等上十年，并传给下一代。十年之后的 1963 年，阿尔玛将一英亩土地留给儿子用于建造房屋和谷仓，另外 159
+英亩土地以终身租约的形式卖给了大提顿国家公园。尽管他的儿子克拉克已于 1987 年退休，克拉克也同样选择为子孙后代保留这块一英亩的土地。
 
 如果没有小洛克菲勒当年的善举，就不会有今天的大提顿公园。公园外有一条名为“约翰·洛克菲勒纪念大道”的公路，就是为了纪念他对于保护自然资源的贡献。
 
@@ -140,12 +142,12 @@ rk/grand-canyon-yellowstone-17831"/>
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/A-Grizzly-Sow.jpg" alt="A Grizzly Bear Sow"/>
-  <center><figcaption>A Grizzly Bear Sow</figcaption></center>
+  <center><figcaption>一只母大灰熊。A Grizzly Bear Sow</figcaption></center>
 </figure>
 
 # 再回黄石
 
-很吃惊 Colter Bay 那里竟然有个小超市，卖的食物貌似很齐全的，竟然有西瓜！看来这里的游客不少。午饭后我们想直接回黄石，就没有再这里探索游玩。
+很吃惊 Colter Bay 那里竟然有个小超市，卖的食物貌似很齐全的，竟然有西瓜！看来这里的游客不少。午饭后我们直接回西黄石，就没有在这里游玩。
 
 <figure>
   <img src="../../../assets/images/GrandTeton-Day3/Back-to-Yellowstone.jpg" alt="回黄石公园的路，无垠的旷野、天空和满天的白云太令人难忘。"/>
