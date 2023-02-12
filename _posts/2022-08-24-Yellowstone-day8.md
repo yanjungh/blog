@@ -122,7 +122,7 @@ Jenny Lake 深 423 英尺（139 米），比黄石湖还深，黄石湖深 394 �
 大西洋，另一只脚在太平洋。
 
 我好奇心上来，那么欧亚大陆的分水岭在哪里？乌拉尔山脉是另一个分水岭，分开了里海和北冰洋。青藏高原是世界屋脊，也是一个大陆分水岭，
-分开了太平洋和印度洋。所以诗词中的“恰似一江春水向东流”，也是因为诗人碰巧生活在分水岭的右边。
+分开了太平洋和印度洋。所以诗词中的“恰似一江春水向东流”，也是因为诗人碰巧生活在分水岭的东边。
 
 <figure>
   <img src="../../../assets/images/Yellowstone-Day8/Continental-Divide.jpg" alt="Continental Divide, Photo by NPS: https://www.nps.gov/features/yell/slidefile/graphics/signs/Images/13278.jpg"/>
