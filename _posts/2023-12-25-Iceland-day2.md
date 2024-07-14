@@ -8,17 +8,18 @@ date:   2024-07-14 06:00:00 -0400
 
 刚离开 Reykjavík 不久，我们就进入了传奇中的冰雪世界。放眼望去，就是一个冰雪无瑕的世界，偶尔间杂着几缕灰色或黑色的笔触，都让人觉得大自然惊人之美。
 
-出门不久儿子注意到，远处一条支路旁有一辆翻倒的车。
+出门不久儿子注意到，远处一条支道旁有一辆翻倒的车。
 
 先生开玩笑说，“那不是德克萨斯来的司机翻到的吧？”德克萨斯在南方，平时降雪不多。前年那里下了一场大雪，导致了高速公路上的连环车祸。
 
-儿子不同意，“That's the mentality that got you into problems.” （这个心态就会让人陷入困境。）
+儿子不同意，“That's the mentality that'll get you into problems.” （这个心态就会让人陷入困境。）
 
 他又加了一句，“You don't even need to drive to know that.” (你甚至不需要开车就知道这一点。)
 
-怎么说呢？这个高中生真的像个大人了。
+怎么说呢？这个毕业生有时候真的像个大人了。
 
-路上我们经过了好几个牧场。经过一个牧场的时候，看到马儿都聚在路边的栅栏里，有游人去喂马吃草，抚摸马头和鬃毛。马的毛非常柔软，并且它们的脾气也特温柔。是不是天寒地冻之下马儿和人一样，都需要一些温暖的情谊？
+路上我们经过了好几个牧场。经过一个牧场的时候，看到马儿都聚在路边的栅栏里，有游人去喂马吃草，抚摸马头和鬃毛。马的毛非常柔软，并且它们的脾气也
+特温柔。是不是天寒地冻之下马儿和人一样，都需要一些温暖的情谊？
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/Reykjavik-to-Vik.png" alt="From Reykjavík to Vik"/>
@@ -37,17 +38,17 @@ date:   2024-07-14 06:00:00 -0400
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/Road-in-the-Snow.jpg" alt="雪山下的点点灯火与道路"/>
-  <center><figcaption>雪山下的点点灯火与道路</figcaption></center>
+  <center><figcaption>雪山下的灯火与道路</figcaption></center>
 </figure>
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/trees.jpg" alt="日出，难得一见的树林"/>
-  <center><figcaption>日出，难得一见的树林</figcaption></center>
+  <center><figcaption>日出，难得一见的树林。冰岛基本上是没有树的国家。</figcaption></center>
 </figure>
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/Roadside-by-the-farm.jpg" alt="近看白雪点缀的群山"/>
-  <center><figcaption>近看白雪点缀的群山</figcaption></center>
+  <center><figcaption>近看雪山</figcaption></center>
 </figure>
 
 <figure>
@@ -71,8 +72,8 @@ date:   2024-07-14 06:00:00 -0400
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day2/Icy-Lake.jpg" alt="Lake Holtsós, near Gamla fjósið. 日出平湖，湖面飘着浮冰。"/>
-  <center><figcaption>Lake Holtsós, near Gamla fjósið. 日出平湖，湖面飘着浮冰。</figcaption></center>
+  <img src="../../../assets/images/Iceland-Day2/Icy-Lake.jpg" alt="Lake Holtsós, near Gamla fjósið. 日出平湖。"/>
+  <center><figcaption>Lake Holtsós, near Gamla fjósið. 日出平湖。</figcaption></center>
 </figure>
 
 ## 斯科加瀑布 SKÓGAFOSS
@@ -95,7 +96,7 @@ date:   2024-07-14 06:00:00 -0400
 </figure>
 
 
-## 索尔黑马冰川 (SÓLHEIMAJÖKULL)
+## 索尔黑马冰川 SÓLHEIMAJÖKULL
 
 从瀑布到 Sólheimajökull 冰川，仅10 英里。沿着一号环岛公路，很快就到了。
 
@@ -119,12 +120,13 @@ date:   2024-07-14 06:00:00 -0400
 ## Reynisdrangar Cliffs
 
 
-我来这个海滩，最想看的就是这个玄武岩柱悬崖(Basalt columns)。夏季里，这是漂亮的 puffins (海雀)筑巢的地方。当然，这里的游人也很多，只是我不再感到惊讶了。
+我来这个海滩，最想看的就是这个玄武岩柱悬崖 (Basalt columns)。夏季里，这是漂亮的海雀（puffins）筑巢的地方。当然，这里的游人也很多，只是我不再感到惊讶了。
 
 这里的黑色沙滩很有标志性。黑色的沙滩，是因为几个世纪前，北面的卡特拉火山爆发后，炽热的熔岩遇上冰冷的北大西洋而形成。游客须知上提到，风高浪大，
 这里海浪如此危险，游客万不可背对着海浪。虽然天气冷，但是我非常喜欢这看不够的连绵海浪，听不够的涛声阵阵。
 
-先生第一个回到车上。但是女儿在海边玩得很尽兴。她站在沙滩上，兴奋地等着海浪冲过来，然后再跑开。夏天没去沙滩玩，现在一起补上。后来儿子也感觉有点太冷了，我们才依依不舍回到车上。
+先生第一个受不了冷，先回到车上。但是女儿在海边玩得很尽兴。她站在沙滩上，兴奋地等着海浪冲过来，然后再跑开。夏天没去沙滩玩，现在一起补上。后来
+儿子也感觉有点太冷了，我们才依依不舍离开。
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/tour-bus.jpg" alt="前面一辆大巴，看起来和我们去同一个地方。"/>
@@ -144,16 +146,16 @@ date:   2024-07-14 06:00:00 -0400
 
 ## 风景如画的维克小镇 VÍK
 
-今天是圣诞节，找来找去没有找到开门的餐馆，最后去了一家 “Black Crust Pizza” 吃了比萨饼。不过味道要比想象的好不少，而且面饼非常薄而脆。
+今天是圣诞节，找来找去没有找到开门的餐馆，最后去了一家 “Black Crust Pizza” 吃了比萨饼。不过味道没有让人失望，面饼非常薄而脆。
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/Vik-Town.jpg" alt="风景如画的维克小镇（1）"/>
-  <center><figcaption>风景如画的维克小镇（1）</figcaption></center>
+  <center><figcaption>海边，风景如画的维克小镇</figcaption></center>
 </figure>
 
 <figure>
   <img src="../../../assets/images/Iceland-Day2/Vik-Church.jpg" alt="维克小镇的教堂Vík í Mýrdal Church"/>
-  <center><figcaption>维克小镇的教堂Vík í Mýrdal Church</figcaption></center>
+  <center><figcaption>维克小镇的教堂 Vík í Mýrdal Church</figcaption></center>
 </figure>
 
 <figure>
@@ -165,4 +167,4 @@ date:   2024-07-14 06:00:00 -0400
 
 今晚入住一个农场的旅馆。因为要看极光，定的旅馆都在比较偏僻的地方，而我最喜欢这样安静的地方了。这是一个独栋的木屋，大概十来个房间。和其他地方不同的是，每层楼都有个专门放鞋的地方，我们刚进大门第一件事就是脱掉鞋子。
 
-房间比 Reykjavík 的大多了，布置得也非常好。窗外，一座雪山近在咫尺。明月白雪，美不胜收。最让人喜出望外的还是：热水没有硫磺的气味。
+房间比 Reykjavík 的大多了，布置得也非常好。窗外，一座雪山近在咫尺。明月白雪，美不胜收。最让人喜出望外的还是：热水没有硫化氢的气味。
