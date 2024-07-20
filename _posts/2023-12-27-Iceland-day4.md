@@ -38,7 +38,7 @@ date:   2024-07-20 06:00:00 -0400
 
 <figure>
   <img src="../../../assets/images/Iceland-Day4/Grass-rooftops.jpg" alt="冰岛传统的草皮房子"/>
-  <center><figcaption>冰岛传统的草皮房子，和现代的屋顶种植有神似之处。</figcaption></center>
+  <center><figcaption>冰岛传统的草皮房子，和现代的屋顶花园有异曲同工之处。</figcaption></center>
 </figure>
 
 <figure>
