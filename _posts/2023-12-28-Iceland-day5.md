@@ -106,27 +106,33 @@ date:   2024-07-21 06:00:00 -0400
 冰岛语“Varmaland”，意思是 Warm land (温暖的土地)，或许来源于冰岛是冰与火之岛？
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day5/icy-river-01.jpg" alt="冰封的大河与山峦  River Öxará"/>
-  <center><figcaption>冰封的大河与山峦  River Öxará</figcaption></center>
+  <img src="../../../assets/images/Iceland-Day5/icy-river-01.jpg" alt="River Öxará"/>
+  <center><figcaption>River Öxará</figcaption></center>
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day5/icy-river-02.jpg" alt="路旁的雪山与嶙峋的山石"/>
+  <img src="../../../assets/images/Iceland-Day5/icy-river-02.jpg" alt="冰封的大河与山峦"/>
+  <center><figcaption>冰封的大河与山峦</figcaption></center>
+</figure>
+
+
+<figure>
+  <img src="../../../assets/images/Iceland-Day5/snow-mountain-with-ragged-ridges.jpg" alt="路旁的雪山与嶙峋的山石"/>
   <center><figcaption>路旁的雪山与嶙峋的山石</figcaption></center>
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day5/snow-mountain-with-ragged-ridges.jpg" alt="绝美水墨画"/>
+  <img src="../../../assets/images/Iceland-Day5/snow-mountain-with-trees.jpg" alt="绝美水墨画"/>
   <center><figcaption>绝美水墨画</figcaption></center>
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day5/snow-mountain-with-trees.jpg" alt="海湾"/>
+  <img src="../../../assets/images/Iceland-Day5/snow-mountain-along-the-coast.jpg" alt="海湾"/>
   <center><figcaption>海湾</figcaption></center>
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day5/snow-mountain-along-the-coast.jpg" alt="通往 Hotel Varmaland 的偏僻冰雪小路"/>
+  <img src="../../../assets/images/Iceland-Day5/Icy-road.jpg" alt="通往 Hotel Varmaland 的偏僻冰雪小路"/>
   <center><figcaption>通往 Hotel Varmaland 的偏僻冰雪小路</figcaption></center>
 </figure>
 
