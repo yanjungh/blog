@@ -69,8 +69,13 @@ date:   2024-07-21 06:00:00 -0400
 </figure>
 
 <figure>
-  <img src="../../../assets/images/Iceland-Day5/icy-river-01.jpg" alt="冰封的大河与山峦  River Öxará"/>
-  <center><figcaption>冰封的大河与山峦  River Öxará</figcaption></center>
+  <img src="../../../assets/images/Iceland-Day5/icy-river-01.jpg" alt="River Öxará"/>
+  <center><figcaption>River Öxará</figcaption></center>
+</figure>
+
+<figure>
+  <img src="../../../assets/images/Iceland-Day5/icy-river-02.jpg" alt="冰封的大河与山峦"/>
+  <center><figcaption>冰封的大河与山峦</figcaption></center>
 </figure>
 
 <figure>
@@ -105,17 +110,6 @@ date:   2024-07-21 06:00:00 -0400
 
 Varmaland Hotel 是因为我们原先订的旅馆圣诞节期间不开门，给我们免费升级的。冰岛语“Varmaland”，名字看起来就像“farmland hotel”，农场旅馆。
 结果出乎意料，是个会议中心，设施齐全，不过这个季节几乎没什么客人。Varmaland 意思是 Warm land (温暖的土地)，或许来源于冰岛是冰与火之岛？
-
-<figure>
-  <img src="../../../assets/images/Iceland-Day5/icy-river-01.jpg" alt="River Öxará"/>
-  <center><figcaption>River Öxará</figcaption></center>
-</figure>
-
-<figure>
-  <img src="../../../assets/images/Iceland-Day5/icy-river-02.jpg" alt="冰封的大河与山峦"/>
-  <center><figcaption>冰封的大河与山峦</figcaption></center>
-</figure>
-
 
 <figure>
   <img src="../../../assets/images/Iceland-Day5/snow-mountain-with-ragged-ridges.jpg" alt="路旁的雪山与嶙峋的山石"/>
