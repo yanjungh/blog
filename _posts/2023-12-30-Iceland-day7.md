@@ -1,5 +1,5 @@
 ---
 layout: post
-title:  冰岛之旅（之六）：Snæfellsjökull 斯柰山半岛
-date:   2024-07-27 06:00:00 -0400
+title:  冰岛之旅（之七）：Reykjavík 极光博物馆
+date:   2024-07-28 06:00:00 -0400
 ---
